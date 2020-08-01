@@ -1,0 +1,9 @@
+back
+p{
+display: flex;
+justify-content: center;
+}
+.pr{
+    font-size: 45px;
+    color: red;
+}
